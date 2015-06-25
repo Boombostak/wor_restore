@@ -1,0 +1,2147 @@
+fileFormatVersion: 2
+guid: a5f2e70b809d28a4c907d6b70b5d6c62
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: debris_0
+    21300002: debris_1
+    21300004: debris_2
+    21300006: debris_3
+    21300008: debris_4
+    21300010: debris_5
+    21300012: debris_6
+    21300014: debris_7
+    21300016: debris_8
+    21300018: debris_9
+    21300020: debris_10
+    21300022: debris_11
+    21300024: debris_12
+    21300026: debris_13
+    21300028: debris_14
+    21300030: debris_15
+    21300032: debris_16
+    21300034: debris_17
+    21300036: debris_18
+    21300038: debris_19
+    21300040: debris_20
+    21300042: debris_21
+    21300044: debris_22
+    21300046: debris_23
+    21300048: debris_24
+    21300050: debris_26
+    21300052: debris_27
+    21300054: debris_28
+    21300056: debris_29
+    21300058: debris_30
+    21300060: debris_37
+    21300062: debris_45
+    21300064: debris_46
+    21300066: debris_47
+    21300068: debris_48
+    21300070: debris_49
+    21300072: debris_50
+    21300074: debris_51
+    21300076: debris_52
+    21300078: debris_53
+    21300080: debris_54
+    21300082: debris_95
+    21300084: debris_96
+    21300086: debris_97
+    21300088: debris_98
+    21300090: debris_99
+    21300092: debris_100
+    21300094: debris_101
+    21300096: debris_102
+    21300098: debris_111
+    21300100: debris_116
+    21300102: debris_117
+    21300104: debris_118
+    21300106: debris_119
+    21300108: debris_120
+    21300110: debris_121
+    21300112: debris_122
+    21300114: debris_123
+    21300116: debris_124
+    21300118: debris_125
+    21300120: debris_126
+    21300122: debris_127
+    21300124: debris_128
+    21300126: debris_129
+    21300128: debris_130
+    21300130: debris_131
+    21300132: debris_136
+    21300134: debris_148
+    21300136: debris_156
+    21300138: debris_157
+    21300140: debris_158
+    21300142: debris_159
+    21300144: debris_160
+    21300146: debris_161
+    21300148: debris_162
+    21300150: debris_163
+    21300152: debris_164
+    21300154: debris_165
+    21300156: debris_166
+    21300158: debris_167
+    21300160: debris_168
+    21300162: debris_169
+    21300164: debris_170
+    21300166: debris_171
+    21300168: w1-2
+    21300170: w1-3
+    21300172: w1-4
+    21300174: metal1-9
+    21300176: w1-1
+    21300178: metal1-3
+    21300180: debris_181
+    21300182: debris_182
+    21300184: debris_183
+    21300186: debris_184
+    21300188: debris_186
+    21300190: debris_188
+    21300192: debris_190
+    21300194: debris_192
+    21300196: debris_199
+    21300198: debris_201
+    21300200: debris_203
+    21300202: debris_205
+    21300204: debris_212
+    21300206: debris_213
+    21300208: debris_214
+    21300210: debris_215
+    21300212: debris_216
+    21300214: debris_217
+    21300216: debris_218
+    21300218: debris_219
+    21300220: debris_220
+    21300222: debris_221
+    21300224: debris_222
+    21300226: debris_223
+    21300228: debris_224
+    21300230: debris_225
+    21300232: debris_226
+    21300234: debris_227
+    21300236: debris_228
+    21300238: debris_229
+    21300240: debris_230
+    21300242: debris_231
+    21300244: debris_232
+    21300246: debris_233
+    21300248: debris_234
+    21300250: debris_235
+    21300252: debris_236
+    21300254: debris_239
+    21300256: debris_240
+    21300258: debris_241
+    21300260: debris_243
+    21300262: debris_245
+    21300264: debris_246
+    21300266: debris_247
+    21300268: debris_249
+    21300270: debris_258
+    21300272: debris_261
+    21300274: debris_271
+    21300276: debris_273
+    21300278: debris_279
+    21300280: debris_281
+    21300282: debris_291
+    21300284: debris_292
+    21300286: debris_293
+    21300288: debris_295
+    21300290: metal1-6
+    21300292: metal1-7
+    21300294: debris_310
+    21300296: debris_313
+    21300298: debris_316
+    21300300: debris_317
+    21300302: debris_318
+    21300304: debris_319
+    21300306: debris_320
+    21300308: debris_321
+    21300310: debris_322
+    21300312: debris_323
+    21300314: debris_324
+    21300316: debris_325
+    21300318: debris_326
+    21300320: debris_327
+    21300322: debris_328
+    21300324: debris_329
+    21300326: debris_330
+    21300328: debris_331
+    21300330: debris_332
+    21300332: debris_333
+    21300334: debris_334
+    21300336: debris_335
+    21300338: debris_336
+    21300340: debris_337
+    21300342: debris_338
+    21300344: debris_339
+    21300346: debris_340
+    21300348: debris_341
+    21300350: debris_342
+    21300352: debris_343
+    21300354: debris_344
+    21300356: debris_345
+    21300358: debris_346
+    21300360: debris_347
+    21300362: debris_348
+    21300364: debris_349
+    21300366: debris_350
+    21300368: debris_351
+    21300370: debris_352
+    21300372: debris_353
+    21300374: debris_354
+    21300376: debris_355
+    21300378: debris_356
+    21300380: debris_357
+    21300382: debris_358
+    21300384: debris_359
+    21300386: debris_360
+    21300388: debris_361
+    21300390: debris_362
+    21300392: debris_363
+    21300394: debris_364
+    21300396: debris_365
+    21300398: debris_366
+    21300400: debris_367
+    21300402: debris_368
+    21300404: debris_369
+    21300406: debris_370
+    21300408: debris_371
+    21300410: debris_372
+    21300412: debris_373
+    21300414: debris_374
+    21300416: debris_375
+    21300418: debris_376
+    21300420: debris_377
+    21300422: debris_378
+    21300424: debris_379
+    21300426: debris_380
+    21300428: debris_381
+    21300430: debris_382
+    21300432: debris_383
+    21300434: debris_384
+    21300436: debris_385
+    21300438: debris_386
+    21300440: debris_387
+    21300442: debris_388
+    21300444: debris_389
+    21300446: debris_390
+    21300448: debris_391
+    21300450: debris_392
+    21300452: debris_393
+    21300454: debris_394
+    21300456: debris_395
+    21300458: debris_396
+    21300460: debris_397
+    21300462: debris_398
+    21300464: debris_399
+    21300466: debris_400
+    21300468: debris_401
+    21300470: debris_402
+    21300472: debris_403
+    21300474: debris_404
+    21300476: debris_405
+    21300478: debris_406
+    21300480: debris_407
+    21300482: debris_408
+    21300484: debris_409
+    21300486: debris_410
+    21300488: debris_411
+    21300490: debris_412
+    21300492: debris_413
+    21300494: debris_414
+    21300496: debris_415
+    21300498: debris_416
+    21300500: debris_360
+    21300502: debris_328
+    21300504: debris_329
+    21300506: debris_330
+    21300508: debris_320
+    21300510: debris_321
+    21300512: debris_322
+    21300514: debris_319
+    21300516: debris_320
+    21300518: debris_321
+    21300520: debris_317
+    21300522: debris_315
+    21300524: debris_316
+    21300526: debris_317
+    21300528: metal1-10
+    21300530: debris_301
+    21300532: metal1-6
+    21300534: debris_303
+    21300536: debris_304
+    21300538: debris_302
+    21300540: w1-6
+    21300542: metal1-8
+    21300544: w1-7
+    21300546: w1-9
+    21300548: metal1-4
+    21300550: metal1-5
+    21300552: metal1-2
+    21300554: w1-2
+    21300556: w1-3
+    21300558: w1-4
+    21300560: debris_175
+    21300562: debris_176
+    21300564: debris_177
+    21300566: debris_178
+    21300568: debris_172
+    21300570: debris_173
+    21300572: debris_174
+    21300574: w1-8
+    21300576: w1-5
+    21300578: w1-10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: debris_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1520
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1521
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1523
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1525
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1526
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1523
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1522
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1520
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1519
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1519
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1487
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1488
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1491
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1492
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1490
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1488
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1486
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1485
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1484
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1442
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1442
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1441
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1439
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1438
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1389
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1389
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1391
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1392
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1392
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1338
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1256
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1257
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1257
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_48
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1258
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1258
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1257
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1255
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1254
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1254
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1254
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_95
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1115
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1115
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1115
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_98
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1114
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_100
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1114
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_101
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1114
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1115
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_111
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1017
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_116
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 983
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_117
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 983
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_118
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 983
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_119
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 983
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_120
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 983
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_121
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 983
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_122
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 983
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_123
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 983
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 951
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_125
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 951
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_126
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 951
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_127
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 951
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_128
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 950
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_129
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 950
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_130
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 950
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_131
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 951
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_136
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 897
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_148
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 848
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_156
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 813
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_157
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 814
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_158
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 816
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_159
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 817
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_160
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 816
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_161
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 814
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_162
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 814
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_163
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 814
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_164
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 780
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_165
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 781
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_166
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 782
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_167
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 782
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_168
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 783
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_169
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 782
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_170
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 781
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_171
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 781
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_172
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 781
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_173
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 781
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_174
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 727
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_175
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 728
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_176
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 727
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_178
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 727
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_181
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 678
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_182
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 678
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_183
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 678
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_184
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 679
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_186
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 627
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_188
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 626
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_190
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 628
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_192
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 628
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_199
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 577
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_201
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 579
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_203
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 579
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_205
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 578
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_212
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 530
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_213
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 533
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_214
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 537
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_215
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 535
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_216
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 484
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_217
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 481
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_218
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 481
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_219
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 479
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_220
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 443
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_221
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 444
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_222
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 447
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_223
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 444
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_224
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_225
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 442
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_226
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 442
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_227
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 441
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_228
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 410
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_229
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 411
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_230
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 413
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_231
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 411
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_232
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_233
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 409
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_234
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 409
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_235
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 409
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_236
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 357
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_239
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 356
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_240
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 356
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_241
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 308
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_243
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 309
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_245
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 308
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_246
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 308
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_247
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_249
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_258
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 258
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_261
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 258
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_271
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 207
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_273
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 207
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_279
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 208
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_281
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 207
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_291
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_292
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 157
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_293
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 156
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_295
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 156
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_302
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_304
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 108
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_310
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 108
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_313
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_316
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 74
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_317
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 74
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_318
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_319
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_320
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 77
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_321
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 78
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_322
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_323
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_360
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 356
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_328
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 848
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_329
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 848
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_330
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 848
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_320
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 897
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_321
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 897
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_322
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 897
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_319
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1017
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_320
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1017
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_321
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1017
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_317
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_315
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_316
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: debris_317
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: w1-10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

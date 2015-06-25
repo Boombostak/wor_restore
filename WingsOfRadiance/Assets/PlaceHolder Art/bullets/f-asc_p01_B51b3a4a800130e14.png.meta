@@ -1,0 +1,6670 @@
+fileFormatVersion: 2
+guid: 3108ade964c3ae4428fb93db06d60cb4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f-asc_p01_B51b3a4a800130e14
+    21300002: f-asc_p01_B51b3a4a800130e14_0
+    21300004: f-asc_p01_B51b3a4a800130e14_1
+    21300006: f-asc_p01_B51b3a4a800130e14_2
+    21300008: f-asc_p01_B51b3a4a800130e14_3
+    21300010: f-asc_p01_B51b3a4a800130e14_4
+    21300012: f-asc_p01_B51b3a4a800130e14_5
+    21300014: f-asc_p01_B51b3a4a800130e14_6
+    21300016: f-asc_p01_B51b3a4a800130e14_7
+    21300018: f-asc_p01_B51b3a4a800130e14_8
+    21300020: f-asc_p01_B51b3a4a800130e14_9
+    21300022: f-asc_p01_B51b3a4a800130e14_10
+    21300024: f-asc_p01_B51b3a4a800130e14_11
+    21300026: f-asc_p01_B51b3a4a800130e14_12
+    21300028: f-asc_p01_B51b3a4a800130e14_13
+    21300030: f-asc_p01_B51b3a4a800130e14_14
+    21300032: f-asc_p01_B51b3a4a800130e14_15
+    21300034: f-asc_p01_B51b3a4a800130e14_16
+    21300036: f-asc_p01_B51b3a4a800130e14_17
+    21300038: f-asc_p01_B51b3a4a800130e14_18
+    21300040: f-asc_p01_B51b3a4a800130e14_19
+    21300042: f-asc_p01_B51b3a4a800130e14_20
+    21300044: f-asc_p01_B51b3a4a800130e14_21
+    21300046: f-asc_p01_B51b3a4a800130e14_22
+    21300048: f-asc_p01_B51b3a4a800130e14_23
+    21300050: f-asc_p01_B51b3a4a800130e14_24
+    21300052: f-asc_p01_B51b3a4a800130e14_25
+    21300054: f-asc_p01_B51b3a4a800130e14_26
+    21300056: f-asc_p01_B51b3a4a800130e14_27
+    21300058: f-asc_p01_B51b3a4a800130e14_28
+    21300060: f-asc_p01_B51b3a4a800130e14_29
+    21300062: f-asc_p01_B51b3a4a800130e14_30
+    21300064: f-asc_p01_B51b3a4a800130e14_31
+    21300066: f-asc_p01_B51b3a4a800130e14_32
+    21300068: f-asc_p01_B51b3a4a800130e14_33
+    21300070: f-asc_p01_B51b3a4a800130e14_34
+    21300072: f-asc_p01_B51b3a4a800130e14_35
+    21300074: f-asc_p01_B51b3a4a800130e14_36
+    21300076: f-asc_p01_B51b3a4a800130e14_37
+    21300078: f-asc_p01_B51b3a4a800130e14_38
+    21300080: f-asc_p01_B51b3a4a800130e14_39
+    21300082: f-asc_p01_B51b3a4a800130e14_40
+    21300084: f-asc_p01_B51b3a4a800130e14_41
+    21300086: f-asc_p01_B51b3a4a800130e14_42
+    21300088: f-asc_p01_B51b3a4a800130e14_43
+    21300090: f-asc_p01_B51b3a4a800130e14_44
+    21300092: f-asc_p01_B51b3a4a800130e14_45
+    21300094: f-asc_p01_B51b3a4a800130e14_46
+    21300096: f-asc_p01_B51b3a4a800130e14_47
+    21300098: f-asc_p01_B51b3a4a800130e14_48
+    21300100: f-asc_p01_B51b3a4a800130e14_49
+    21300102: f-asc_p01_B51b3a4a800130e14_50
+    21300104: f-asc_p01_B51b3a4a800130e14_51
+    21300106: f-asc_p01_B51b3a4a800130e14_52
+    21300108: f-asc_p01_B51b3a4a800130e14_53
+    21300110: f-asc_p01_B51b3a4a800130e14_54
+    21300112: f-asc_p01_B51b3a4a800130e14_55
+    21300114: f-asc_p01_B51b3a4a800130e14_56
+    21300116: f-asc_p01_B51b3a4a800130e14_57
+    21300118: f-asc_p01_B51b3a4a800130e14_58
+    21300120: f-asc_p01_B51b3a4a800130e14_59
+    21300122: f-asc_p01_B51b3a4a800130e14_60
+    21300124: f-asc_p01_B51b3a4a800130e14_61
+    21300126: f-asc_p01_B51b3a4a800130e14_62
+    21300128: f-asc_p01_B51b3a4a800130e14_63
+    21300130: f-asc_p01_B51b3a4a800130e14_64
+    21300132: f-asc_p01_B51b3a4a800130e14_65
+    21300134: f-asc_p01_B51b3a4a800130e14_66
+    21300136: f-asc_p01_B51b3a4a800130e14_67
+    21300138: f-asc_p01_B51b3a4a800130e14_68
+    21300140: f-asc_p01_B51b3a4a800130e14_69
+    21300142: f-asc_p01_B51b3a4a800130e14_70
+    21300144: f-asc_p01_B51b3a4a800130e14_71
+    21300146: f-asc_p01_B51b3a4a800130e14_72
+    21300148: f-asc_p01_B51b3a4a800130e14_73
+    21300150: f-asc_p01_B51b3a4a800130e14_74
+    21300152: f-asc_p01_B51b3a4a800130e14_75
+    21300154: f-asc_p01_B51b3a4a800130e14_76
+    21300156: f-asc_p01_B51b3a4a800130e14_77
+    21300158: f-asc_p01_B51b3a4a800130e14_78
+    21300160: f-asc_p01_B51b3a4a800130e14_79
+    21300162: f-asc_p01_B51b3a4a800130e14_80
+    21300164: f-asc_p01_B51b3a4a800130e14_81
+    21300166: f-asc_p01_B51b3a4a800130e14_82
+    21300168: f-asc_p01_B51b3a4a800130e14_83
+    21300170: f-asc_p01_B51b3a4a800130e14_84
+    21300172: f-asc_p01_B51b3a4a800130e14_85
+    21300174: f-asc_p01_B51b3a4a800130e14_86
+    21300176: f-asc_p01_B51b3a4a800130e14_87
+    21300178: f-asc_p01_B51b3a4a800130e14_88
+    21300180: f-asc_p01_B51b3a4a800130e14_89
+    21300182: f-asc_p01_B51b3a4a800130e14_90
+    21300184: f-asc_p01_B51b3a4a800130e14_91
+    21300186: f-asc_p01_B51b3a4a800130e14_92
+    21300188: f-asc_p01_B51b3a4a800130e14_93
+    21300190: f-asc_p01_B51b3a4a800130e14_94
+    21300192: f-asc_p01_B51b3a4a800130e14_95
+    21300194: f-asc_p01_B51b3a4a800130e14_96
+    21300196: f-asc_p01_B51b3a4a800130e14_97
+    21300198: f-asc_p01_B51b3a4a800130e14_98
+    21300200: f-asc_p01_B51b3a4a800130e14_99
+    21300202: f-asc_p01_B51b3a4a800130e14_100
+    21300204: f-asc_p01_B51b3a4a800130e14_101
+    21300206: f-asc_p01_B51b3a4a800130e14_102
+    21300208: f-asc_p01_B51b3a4a800130e14_103
+    21300210: f-asc_p01_B51b3a4a800130e14_104
+    21300212: f-asc_p01_B51b3a4a800130e14_105
+    21300214: f-asc_p01_B51b3a4a800130e14_106
+    21300216: f-asc_p01_B51b3a4a800130e14_107
+    21300218: f-asc_p01_B51b3a4a800130e14_108
+    21300220: f-asc_p01_B51b3a4a800130e14_109
+    21300222: f-asc_p01_B51b3a4a800130e14_110
+    21300224: f-asc_p01_B51b3a4a800130e14_111
+    21300226: f-asc_p01_B51b3a4a800130e14_112
+    21300228: f-asc_p01_B51b3a4a800130e14_113
+    21300230: f-asc_p01_B51b3a4a800130e14_114
+    21300232: f-asc_p01_B51b3a4a800130e14_115
+    21300234: f-asc_p01_B51b3a4a800130e14_116
+    21300236: f-asc_p01_B51b3a4a800130e14_117
+    21300238: f-asc_p01_B51b3a4a800130e14_118
+    21300240: f-asc_p01_B51b3a4a800130e14_119
+    21300242: f-asc_p01_B51b3a4a800130e14_120
+    21300244: f-asc_p01_B51b3a4a800130e14_121
+    21300246: f-asc_p01_B51b3a4a800130e14_122
+    21300248: f-asc_p01_B51b3a4a800130e14_123
+    21300250: f-asc_p01_B51b3a4a800130e14_124
+    21300252: f-asc_p01_B51b3a4a800130e14_125
+    21300254: f-asc_p01_B51b3a4a800130e14_126
+    21300256: f-asc_p01_B51b3a4a800130e14_127
+    21300258: f-asc_p01_B51b3a4a800130e14_128
+    21300260: f-asc_p01_B51b3a4a800130e14_129
+    21300262: f-asc_p01_B51b3a4a800130e14_130
+    21300264: f-asc_p01_B51b3a4a800130e14_131
+    21300266: f-asc_p01_B51b3a4a800130e14_132
+    21300268: f-asc_p01_B51b3a4a800130e14_133
+    21300270: f-asc_p01_B51b3a4a800130e14_134
+    21300272: f-asc_p01_B51b3a4a800130e14_135
+    21300274: f-asc_p01_B51b3a4a800130e14_136
+    21300276: f-asc_p01_B51b3a4a800130e14_137
+    21300278: f-asc_p01_B51b3a4a800130e14_138
+    21300280: f-asc_p01_B51b3a4a800130e14_139
+    21300282: f-asc_p01_B51b3a4a800130e14_140
+    21300284: f-asc_p01_B51b3a4a800130e14_141
+    21300286: f-asc_p01_B51b3a4a800130e14_142
+    21300288: f-asc_p01_B51b3a4a800130e14_143
+    21300290: f-asc_p01_B51b3a4a800130e14_144
+    21300292: f-asc_p01_B51b3a4a800130e14_145
+    21300294: f-asc_p01_B51b3a4a800130e14_146
+    21300296: f-asc_p01_B51b3a4a800130e14_147
+    21300298: f-asc_p01_B51b3a4a800130e14_148
+    21300300: f-asc_p01_B51b3a4a800130e14_149
+    21300302: f-asc_p01_B51b3a4a800130e14_150
+    21300304: f-asc_p01_B51b3a4a800130e14_151
+    21300306: f-asc_p01_B51b3a4a800130e14_152
+    21300308: f-asc_p01_B51b3a4a800130e14_153
+    21300310: f-asc_p01_B51b3a4a800130e14_154
+    21300312: f-asc_p01_B51b3a4a800130e14_155
+    21300314: f-asc_p01_B51b3a4a800130e14_156
+    21300316: f-asc_p01_B51b3a4a800130e14_157
+    21300318: f-asc_p01_B51b3a4a800130e14_158
+    21300320: f-asc_p01_B51b3a4a800130e14_159
+    21300322: f-asc_p01_B51b3a4a800130e14_160
+    21300324: f-asc_p01_B51b3a4a800130e14_161
+    21300326: f-asc_p01_B51b3a4a800130e14_162
+    21300328: f-asc_p01_B51b3a4a800130e14_163
+    21300330: f-asc_p01_B51b3a4a800130e14_164
+    21300332: f-asc_p01_B51b3a4a800130e14_165
+    21300334: f-asc_p01_B51b3a4a800130e14_166
+    21300336: f-asc_p01_B51b3a4a800130e14_167
+    21300338: f-asc_p01_B51b3a4a800130e14_168
+    21300340: f-asc_p01_B51b3a4a800130e14_169
+    21300342: f-asc_p01_B51b3a4a800130e14_170
+    21300344: f-asc_p01_B51b3a4a800130e14_171
+    21300346: f-asc_p01_B51b3a4a800130e14_172
+    21300348: f-asc_p01_B51b3a4a800130e14_173
+    21300350: f-asc_p01_B51b3a4a800130e14_174
+    21300352: f-asc_p01_B51b3a4a800130e14_175
+    21300354: f-asc_p01_B51b3a4a800130e14_176
+    21300356: f-asc_p01_B51b3a4a800130e14_177
+    21300358: f-asc_p01_B51b3a4a800130e14_178
+    21300360: f-asc_p01_B51b3a4a800130e14_179
+    21300362: f-asc_p01_B51b3a4a800130e14_180
+    21300364: f-asc_p01_B51b3a4a800130e14_181
+    21300366: f-asc_p01_B51b3a4a800130e14_182
+    21300368: f-asc_p01_B51b3a4a800130e14_183
+    21300370: f-asc_p01_B51b3a4a800130e14_184
+    21300372: f-asc_p01_B51b3a4a800130e14_185
+    21300374: f-asc_p01_B51b3a4a800130e14_186
+    21300376: f-asc_p01_B51b3a4a800130e14_187
+    21300378: f-asc_p01_B51b3a4a800130e14_188
+    21300380: f-asc_p01_B51b3a4a800130e14_189
+    21300382: f-asc_p01_B51b3a4a800130e14_190
+    21300384: f-asc_p01_B51b3a4a800130e14_191
+    21300386: f-asc_p01_B51b3a4a800130e14_192
+    21300388: f-asc_p01_B51b3a4a800130e14_193
+    21300390: f-asc_p01_B51b3a4a800130e14_194
+    21300392: f-asc_p01_B51b3a4a800130e14_195
+    21300394: f-asc_p01_B51b3a4a800130e14_196
+    21300396: f-asc_p01_B51b3a4a800130e14_197
+    21300398: f-asc_p01_B51b3a4a800130e14_198
+    21300400: f-asc_p01_B51b3a4a800130e14_199
+    21300402: f-asc_p01_B51b3a4a800130e14_200
+    21300404: f-asc_p01_B51b3a4a800130e14_201
+    21300406: f-asc_p01_B51b3a4a800130e14_202
+    21300408: f-asc_p01_B51b3a4a800130e14_203
+    21300410: f-asc_p01_B51b3a4a800130e14_204
+    21300412: f-asc_p01_B51b3a4a800130e14_205
+    21300414: f-asc_p01_B51b3a4a800130e14_206
+    21300416: f-asc_p01_B51b3a4a800130e14_207
+    21300418: f-asc_p01_B51b3a4a800130e14_208
+    21300420: f-asc_p01_B51b3a4a800130e14_209
+    21300422: f-asc_p01_B51b3a4a800130e14_210
+    21300424: f-asc_p01_B51b3a4a800130e14_211
+    21300426: f-asc_p01_B51b3a4a800130e14_212
+    21300428: f-asc_p01_B51b3a4a800130e14_213
+    21300430: f-asc_p01_B51b3a4a800130e14_214
+    21300432: f-asc_p01_B51b3a4a800130e14_215
+    21300434: f-asc_p01_B51b3a4a800130e14_216
+    21300436: f-asc_p01_B51b3a4a800130e14_217
+    21300438: f-asc_p01_B51b3a4a800130e14_218
+    21300440: f-asc_p01_B51b3a4a800130e14_219
+    21300442: f-asc_p01_B51b3a4a800130e14_220
+    21300444: f-asc_p01_B51b3a4a800130e14_221
+    21300446: f-asc_p01_B51b3a4a800130e14_222
+    21300448: f-asc_p01_B51b3a4a800130e14_223
+    21300450: f-asc_p01_B51b3a4a800130e14_224
+    21300452: f-asc_p01_B51b3a4a800130e14_225
+    21300454: f-asc_p01_B51b3a4a800130e14_226
+    21300456: f-asc_p01_B51b3a4a800130e14_227
+    21300458: f-asc_p01_B51b3a4a800130e14_228
+    21300460: f-asc_p01_B51b3a4a800130e14_229
+    21300462: f-asc_p01_B51b3a4a800130e14_230
+    21300464: f-asc_p01_B51b3a4a800130e14_231
+    21300466: f-asc_p01_B51b3a4a800130e14_232
+    21300468: f-asc_p01_B51b3a4a800130e14_233
+    21300470: f-asc_p01_B51b3a4a800130e14_234
+    21300472: f-asc_p01_B51b3a4a800130e14_235
+    21300474: f-asc_p01_B51b3a4a800130e14_236
+    21300476: f-asc_p01_B51b3a4a800130e14_237
+    21300478: f-asc_p01_B51b3a4a800130e14_238
+    21300480: f-asc_p01_B51b3a4a800130e14_239
+    21300482: f-asc_p01_B51b3a4a800130e14_240
+    21300484: f-asc_p01_B51b3a4a800130e14_241
+    21300486: f-asc_p01_B51b3a4a800130e14_242
+    21300488: f-asc_p01_B51b3a4a800130e14_243
+    21300490: f-asc_p01_B51b3a4a800130e14_244
+    21300492: f-asc_p01_B51b3a4a800130e14_245
+    21300494: f-asc_p01_B51b3a4a800130e14_246
+    21300496: f-asc_p01_B51b3a4a800130e14_247
+    21300498: f-asc_p01_B51b3a4a800130e14_248
+    21300500: f-asc_p01_B51b3a4a800130e14_249
+    21300502: f-asc_p01_B51b3a4a800130e14_250
+    21300504: f-asc_p01_B51b3a4a800130e14_251
+    21300506: f-asc_p01_B51b3a4a800130e14_252
+    21300508: f-asc_p01_B51b3a4a800130e14_253
+    21300510: f-asc_p01_B51b3a4a800130e14_254
+    21300512: f-asc_p01_B51b3a4a800130e14_255
+    21300514: f-asc_p01_B51b3a4a800130e14_256
+    21300516: f-asc_p01_B51b3a4a800130e14_257
+    21300518: f-asc_p01_B51b3a4a800130e14_258
+    21300520: f-asc_p01_B51b3a4a800130e14_259
+    21300522: f-asc_p01_B51b3a4a800130e14_260
+    21300524: f-asc_p01_B51b3a4a800130e14_261
+    21300526: f-asc_p01_B51b3a4a800130e14_262
+    21300528: f-asc_p01_B51b3a4a800130e14_263
+    21300530: f-asc_p01_B51b3a4a800130e14_264
+    21300532: f-asc_p01_B51b3a4a800130e14_265
+    21300534: f-asc_p01_B51b3a4a800130e14_266
+    21300536: f-asc_p01_B51b3a4a800130e14_267
+    21300538: f-asc_p01_B51b3a4a800130e14_268
+    21300540: f-asc_p01_B51b3a4a800130e14_269
+    21300542: f-asc_p01_B51b3a4a800130e14_270
+    21300544: f-asc_p01_B51b3a4a800130e14_271
+    21300546: f-asc_p01_B51b3a4a800130e14_272
+    21300548: f-asc_p01_B51b3a4a800130e14_273
+    21300550: f-asc_p01_B51b3a4a800130e14_274
+    21300552: f-asc_p01_B51b3a4a800130e14_275
+    21300554: f-asc_p01_B51b3a4a800130e14_276
+    21300556: f-asc_p01_B51b3a4a800130e14_277
+    21300558: f-asc_p01_B51b3a4a800130e14_278
+    21300560: f-asc_p01_B51b3a4a800130e14_279
+    21300562: f-asc_p01_B51b3a4a800130e14_280
+    21300564: f-asc_p01_B51b3a4a800130e14_281
+    21300566: f-asc_p01_B51b3a4a800130e14_282
+    21300568: f-asc_p01_B51b3a4a800130e14_283
+    21300570: f-asc_p01_B51b3a4a800130e14_284
+    21300572: f-asc_p01_B51b3a4a800130e14_285
+    21300574: f-asc_p01_B51b3a4a800130e14_286
+    21300576: f-asc_p01_B51b3a4a800130e14_287
+    21300578: f-asc_p01_B51b3a4a800130e14_288
+    21300580: f-asc_p01_B51b3a4a800130e14_289
+    21300582: f-asc_p01_B51b3a4a800130e14_290
+    21300584: f-asc_p01_B51b3a4a800130e14_291
+    21300586: f-asc_p01_B51b3a4a800130e14_292
+    21300588: f-asc_p01_B51b3a4a800130e14_293
+    21300590: f-asc_p01_B51b3a4a800130e14_294
+    21300592: f-asc_p01_B51b3a4a800130e14_295
+    21300594: f-asc_p01_B51b3a4a800130e14_296
+    21300596: f-asc_p01_B51b3a4a800130e14_297
+    21300598: f-asc_p01_B51b3a4a800130e14_298
+    21300600: f-asc_p01_B51b3a4a800130e14_299
+    21300602: f-asc_p01_B51b3a4a800130e14_300
+    21300604: f-asc_p01_B51b3a4a800130e14_301
+    21300606: f-asc_p01_B51b3a4a800130e14_302
+    21300608: f-asc_p01_B51b3a4a800130e14_303
+    21300610: f-asc_p01_B51b3a4a800130e14_304
+    21300612: f-asc_p01_B51b3a4a800130e14_305
+    21300614: f-asc_p01_B51b3a4a800130e14_306
+    21300616: f-asc_p01_B51b3a4a800130e14_307
+    21300618: f-asc_p01_B51b3a4a800130e14_308
+    21300620: f-asc_p01_B51b3a4a800130e14_309
+    21300622: f-asc_p01_B51b3a4a800130e14_310
+    21300624: f-asc_p01_B51b3a4a800130e14_311
+    21300626: f-asc_p01_B51b3a4a800130e14_312
+    21300628: f-asc_p01_B51b3a4a800130e14_313
+    21300630: f-asc_p01_B51b3a4a800130e14_314
+    21300632: f-asc_p01_B51b3a4a800130e14_315
+    21300634: f-asc_p01_B51b3a4a800130e14_316
+    21300636: f-asc_p01_B51b3a4a800130e14_317
+    21300638: f-asc_p01_B51b3a4a800130e14_318
+    21300640: f-asc_p01_B51b3a4a800130e14_319
+    21300642: f-asc_p01_B51b3a4a800130e14_320
+    21300644: f-asc_p01_B51b3a4a800130e14_321
+    21300646: f-asc_p01_B51b3a4a800130e14_322
+    21300648: f-asc_p01_B51b3a4a800130e14_323
+    21300650: f-asc_p01_B51b3a4a800130e14_324
+    21300652: f-asc_p01_B51b3a4a800130e14_325
+    21300654: f-asc_p01_B51b3a4a800130e14_326
+    21300656: f-asc_p01_B51b3a4a800130e14_327
+    21300658: f-asc_p01_B51b3a4a800130e14_328
+    21300660: f-asc_p01_B51b3a4a800130e14_329
+    21300662: f-asc_p01_B51b3a4a800130e14_330
+    21300664: f-asc_p01_B51b3a4a800130e14_331
+    21300666: f-asc_p01_B51b3a4a800130e14_332
+    21300668: f-asc_p01_B51b3a4a800130e14_333
+    21300670: f-asc_p01_B51b3a4a800130e14_334
+    21300672: f-asc_p01_B51b3a4a800130e14_335
+    21300674: f-asc_p01_B51b3a4a800130e14_336
+    21300676: f-asc_p01_B51b3a4a800130e14_337
+    21300678: f-asc_p01_B51b3a4a800130e14_338
+    21300680: f-asc_p01_B51b3a4a800130e14_339
+    21300682: f-asc_p01_B51b3a4a800130e14_340
+    21300684: f-asc_p01_B51b3a4a800130e14_341
+    21300686: f-asc_p01_B51b3a4a800130e14_342
+    21300688: f-asc_p01_B51b3a4a800130e14_343
+    21300690: f-asc_p01_B51b3a4a800130e14_344
+    21300692: f-asc_p01_B51b3a4a800130e14_345
+    21300694: f-asc_p01_B51b3a4a800130e14_346
+    21300696: f-asc_p01_B51b3a4a800130e14_347
+    21300698: f-asc_p01_B51b3a4a800130e14_348
+    21300700: f-asc_p01_B51b3a4a800130e14_349
+    21300702: f-asc_p01_B51b3a4a800130e14_350
+    21300704: f-asc_p01_B51b3a4a800130e14_351
+    21300706: f-asc_p01_B51b3a4a800130e14_352
+    21300708: f-asc_p01_B51b3a4a800130e14_353
+    21300710: f-asc_p01_B51b3a4a800130e14_354
+    21300712: f-asc_p01_B51b3a4a800130e14_355
+    21300714: f-asc_p01_B51b3a4a800130e14_356
+    21300716: f-asc_p01_B51b3a4a800130e14_357
+    21300718: f-asc_p01_B51b3a4a800130e14_358
+    21300720: f-asc_p01_B51b3a4a800130e14_359
+    21300722: f-asc_p01_B51b3a4a800130e14_360
+    21300724: f-asc_p01_B51b3a4a800130e14_361
+    21300726: f-asc_p01_B51b3a4a800130e14_362
+    21300728: f-asc_p01_B51b3a4a800130e14_363
+    21300730: f-asc_p01_B51b3a4a800130e14_364
+    21300732: f-asc_p01_B51b3a4a800130e14_365
+    21300734: f-asc_p01_B51b3a4a800130e14_366
+    21300736: f-asc_p01_B51b3a4a800130e14_367
+    21300738: f-asc_p01_B51b3a4a800130e14_368
+    21300740: f-asc_p01_B51b3a4a800130e14_369
+    21300742: f-asc_p01_B51b3a4a800130e14_370
+    21300744: f-asc_p01_B51b3a4a800130e14_371
+    21300746: f-asc_p01_B51b3a4a800130e14_372
+    21300748: f-asc_p01_B51b3a4a800130e14_373
+    21300750: f-asc_p01_B51b3a4a800130e14_374
+    21300752: f-asc_p01_B51b3a4a800130e14_375
+    21300754: f-asc_p01_B51b3a4a800130e14_376
+    21300756: f-asc_p01_B51b3a4a800130e14_377
+    21300758: f-asc_p01_B51b3a4a800130e14_378
+    21300760: f-asc_p01_B51b3a4a800130e14_379
+    21300762: f-asc_p01_B51b3a4a800130e14_380
+    21300764: f-asc_p01_B51b3a4a800130e14_381
+    21300766: f-asc_p01_B51b3a4a800130e14_382
+    21300768: f-asc_p01_B51b3a4a800130e14_383
+    21300770: f-asc_p01_B51b3a4a800130e14_384
+    21300772: f-asc_p01_B51b3a4a800130e14_385
+    21300774: f-asc_p01_B51b3a4a800130e14_386
+    21300776: f-asc_p01_B51b3a4a800130e14_387
+    21300778: f-asc_p01_B51b3a4a800130e14_388
+    21300780: f-asc_p01_B51b3a4a800130e14_389
+    21300782: f-asc_p01_B51b3a4a800130e14_390
+    21300784: f-asc_p01_B51b3a4a800130e14_391
+    21300786: f-asc_p01_B51b3a4a800130e14_392
+    21300788: f-asc_p01_B51b3a4a800130e14_393
+    21300790: f-asc_p01_B51b3a4a800130e14_394
+    21300792: f-asc_p01_B51b3a4a800130e14_395
+    21300794: f-asc_p01_B51b3a4a800130e14_396
+    21300796: f-asc_p01_B51b3a4a800130e14_397
+    21300798: f-asc_p01_B51b3a4a800130e14_398
+    21300800: f-asc_p01_B51b3a4a800130e14_399
+    21300802: f-asc_p01_B51b3a4a800130e14_400
+    21300804: f-asc_p01_B51b3a4a800130e14_401
+    21300806: f-asc_p01_B51b3a4a800130e14_402
+    21300808: f-asc_p01_B51b3a4a800130e14_403
+    21300810: f-asc_p01_B51b3a4a800130e14_404
+    21300812: f-asc_p01_B51b3a4a800130e14_405
+    21300814: f-asc_p01_B51b3a4a800130e14_406
+    21300816: f-asc_p01_B51b3a4a800130e14_407
+    21300818: f-asc_p01_B51b3a4a800130e14_408
+    21300820: f-asc_p01_B51b3a4a800130e14_409
+    21300822: f-asc_p01_B51b3a4a800130e14_410
+    21300824: f-asc_p01_B51b3a4a800130e14_411
+    21300826: f-asc_p01_B51b3a4a800130e14_412
+    21300828: f-asc_p01_B51b3a4a800130e14_413
+    21300830: f-asc_p01_B51b3a4a800130e14_414
+    21300832: f-asc_p01_B51b3a4a800130e14_415
+    21300834: f-asc_p01_B51b3a4a800130e14_416
+    21300836: f-asc_p01_B51b3a4a800130e14_417
+    21300838: f-asc_p01_B51b3a4a800130e14_418
+    21300840: f-asc_p01_B51b3a4a800130e14_419
+    21300842: f-asc_p01_B51b3a4a800130e14_420
+    21300844: f-asc_p01_B51b3a4a800130e14_421
+    21300846: f-asc_p01_B51b3a4a800130e14_422
+    21300848: f-asc_p01_B51b3a4a800130e14_423
+    21300850: f-asc_p01_B51b3a4a800130e14_424
+    21300852: f-asc_p01_B51b3a4a800130e14_425
+    21300854: f-asc_p01_B51b3a4a800130e14_426
+    21300856: f-asc_p01_B51b3a4a800130e14_427
+    21300858: f-asc_p01_B51b3a4a800130e14_428
+    21300860: f-asc_p01_B51b3a4a800130e14_429
+    21300862: f-asc_p01_B51b3a4a800130e14_430
+    21300864: f-asc_p01_B51b3a4a800130e14_431
+    21300866: f-asc_p01_B51b3a4a800130e14_432
+    21300868: f-asc_p01_B51b3a4a800130e14_433
+    21300870: f-asc_p01_B51b3a4a800130e14_434
+    21300872: f-asc_p01_B51b3a4a800130e14_435
+    21300874: f-asc_p01_B51b3a4a800130e14_436
+    21300876: f-asc_p01_B51b3a4a800130e14_437
+    21300878: f-asc_p01_B51b3a4a800130e14_438
+    21300880: f-asc_p01_B51b3a4a800130e14_439
+    21300882: f-asc_p01_B51b3a4a800130e14_440
+    21300884: f-asc_p01_B51b3a4a800130e14_441
+    21300886: f-asc_p01_B51b3a4a800130e14_442
+    21300888: f-asc_p01_B51b3a4a800130e14_443
+    21300890: f-asc_p01_B51b3a4a800130e14_444
+    21300892: f-asc_p01_B51b3a4a800130e14_445
+    21300894: f-asc_p01_B51b3a4a800130e14_446
+    21300896: f-asc_p01_B51b3a4a800130e14_447
+    21300898: f-asc_p01_B51b3a4a800130e14_448
+    21300900: f-asc_p01_B51b3a4a800130e14_449
+    21300902: f-asc_p01_B51b3a4a800130e14_450
+    21300904: f-asc_p01_B51b3a4a800130e14_451
+    21300906: f-asc_p01_B51b3a4a800130e14_452
+    21300908: f-asc_p01_B51b3a4a800130e14_453
+    21300910: f-asc_p01_B51b3a4a800130e14_454
+    21300912: f-asc_p01_B51b3a4a800130e14_455
+    21300914: f-asc_p01_B51b3a4a800130e14_456
+    21300916: f-asc_p01_B51b3a4a800130e14_457
+    21300918: f-asc_p01_B51b3a4a800130e14_458
+    21300920: f-asc_p01_B51b3a4a800130e14_459
+    21300922: f-asc_p01_B51b3a4a800130e14_460
+    21300924: f-asc_p01_B51b3a4a800130e14_461
+    21300926: f-asc_p01_B51b3a4a800130e14_462
+    21300928: f-asc_p01_B51b3a4a800130e14_463
+    21300930: f-asc_p01_B51b3a4a800130e14_464
+    21300932: f-asc_p01_B51b3a4a800130e14_465
+    21300934: f-asc_p01_B51b3a4a800130e14_466
+    21300936: f-asc_p01_B51b3a4a800130e14_467
+    21300938: f-asc_p01_B51b3a4a800130e14_468
+    21300940: f-asc_p01_B51b3a4a800130e14_469
+    21300942: f-asc_p01_B51b3a4a800130e14_470
+    21300944: f-asc_p01_B51b3a4a800130e14_471
+    21300946: f-asc_p01_B51b3a4a800130e14_472
+    21300948: f-asc_p01_B51b3a4a800130e14_473
+    21300950: f-asc_p01_B51b3a4a800130e14_474
+    21300952: f-asc_p01_B51b3a4a800130e14_475
+    21300954: f-asc_p01_B51b3a4a800130e14_476
+    21300956: f-asc_p01_B51b3a4a800130e14_477
+    21300958: f-asc_p01_B51b3a4a800130e14_478
+    21300960: f-asc_p01_B51b3a4a800130e14_479
+    21300962: f-asc_p01_B51b3a4a800130e14_480
+    21300964: f-asc_p01_B51b3a4a800130e14_481
+    21300966: f-asc_p01_B51b3a4a800130e14_482
+    21300968: f-asc_p01_B51b3a4a800130e14_483
+    21300970: f-asc_p01_B51b3a4a800130e14_484
+    21300972: f-asc_p01_B51b3a4a800130e14_485
+    21300974: f-asc_p01_B51b3a4a800130e14_486
+    21300976: f-asc_p01_B51b3a4a800130e14_487
+    21300978: f-asc_p01_B51b3a4a800130e14_488
+    21300980: f-asc_p01_B51b3a4a800130e14_489
+    21300982: f-asc_p01_B51b3a4a800130e14_490
+    21300984: f-asc_p01_B51b3a4a800130e14_491
+    21300986: f-asc_p01_B51b3a4a800130e14_492
+    21300988: f-asc_p01_B51b3a4a800130e14_493
+    21300990: f-asc_p01_B51b3a4a800130e14_494
+    21300992: f-asc_p01_B51b3a4a800130e14_495
+    21300994: f-asc_p01_B51b3a4a800130e14_496
+    21300996: f-asc_p01_B51b3a4a800130e14_497
+    21300998: f-asc_p01_B51b3a4a800130e14_498
+    21301000: f-asc_p01_B51b3a4a800130e14_499
+    21301002: f-asc_p01_B51b3a4a800130e14_500
+    21301004: f-asc_p01_B51b3a4a800130e14_501
+    21301006: f-asc_p01_B51b3a4a800130e14_502
+    21301008: f-asc_p01_B51b3a4a800130e14_503
+    21301010: f-asc_p01_B51b3a4a800130e14_504
+    21301012: f-asc_p01_B51b3a4a800130e14_505
+    21301014: f-asc_p01_B51b3a4a800130e14_506
+    21301016: f-asc_p01_B51b3a4a800130e14_507
+    21301018: f-asc_p01_B51b3a4a800130e14_508
+    21301020: f-asc_p01_B51b3a4a800130e14_509
+    21301022: f-asc_p01_B51b3a4a800130e14_510
+    21301024: f-asc_p01_B51b3a4a800130e14_511
+    21301026: f-asc_p01_B51b3a4a800130e14_512
+    21301028: f-asc_p01_B51b3a4a800130e14_513
+    21301030: f-asc_p01_B51b3a4a800130e14_514
+    21301032: f-asc_p01_B51b3a4a800130e14_515
+    21301034: f-asc_p01_B51b3a4a800130e14_516
+    21301036: f-asc_p01_B51b3a4a800130e14_517
+    21301038: f-asc_p01_B51b3a4a800130e14_518
+    21301040: f-asc_p01_B51b3a4a800130e14_519
+    21301042: f-asc_p01_B51b3a4a800130e14_520
+    21301044: f-asc_p01_B51b3a4a800130e14_521
+    21301046: f-asc_p01_B51b3a4a800130e14_522
+    21301048: f-asc_p01_B51b3a4a800130e14_523
+    21301050: f-asc_p01_B51b3a4a800130e14_524
+    21301052: f-asc_p01_B51b3a4a800130e14_525
+    21301054: f-asc_p01_B51b3a4a800130e14_526
+    21301056: f-asc_p01_B51b3a4a800130e14_527
+    21301058: f-asc_p01_B51b3a4a800130e14_528
+    21301060: f-asc_p01_B51b3a4a800130e14_529
+    21301062: f-asc_p01_B51b3a4a800130e14_530
+    21301064: f-asc_p01_B51b3a4a800130e14_531
+    21301066: f-asc_p01_B51b3a4a800130e14_532
+    21301068: f-asc_p01_B51b3a4a800130e14_533
+    21301070: f-asc_p01_B51b3a4a800130e14_534
+    21301072: f-asc_p01_B51b3a4a800130e14_535
+    21301074: f-asc_p01_B51b3a4a800130e14_536
+    21301076: f-asc_p01_B51b3a4a800130e14_537
+    21301078: f-asc_p01_B51b3a4a800130e14_538
+    21301080: f-asc_p01_B51b3a4a800130e14_539
+    21301082: f-asc_p01_B51b3a4a800130e14_540
+    21301084: f-asc_p01_B51b3a4a800130e14_541
+    21301086: f-asc_p01_B51b3a4a800130e14_542
+    21301088: f-asc_p01_B51b3a4a800130e14_543
+    21301090: f-asc_p01_B51b3a4a800130e14_544
+    21301092: f-asc_p01_B51b3a4a800130e14_545
+    21301094: f-asc_p01_B51b3a4a800130e14_546
+    21301096: f-asc_p01_B51b3a4a800130e14_547
+    21301098: f-asc_p01_B51b3a4a800130e14_548
+    21301100: f-asc_p01_B51b3a4a800130e14_549
+    21301102: f-asc_p01_B51b3a4a800130e14_550
+    21301104: f-asc_p01_B51b3a4a800130e14_551
+    21301106: f-asc_p01_B51b3a4a800130e14_552
+    21301108: f-asc_p01_B51b3a4a800130e14_553
+    21301110: f-asc_p01_B51b3a4a800130e14_554
+    21301112: f-asc_p01_B51b3a4a800130e14_555
+    21301114: f-asc_p01_B51b3a4a800130e14_556
+    21301116: f-asc_p01_B51b3a4a800130e14_557
+    21301118: f-asc_p01_B51b3a4a800130e14_558
+    21301120: f-asc_p01_B51b3a4a800130e14_559
+    21301122: f-asc_p01_B51b3a4a800130e14_560
+    21301124: f-asc_p01_B51b3a4a800130e14_561
+    21301126: f-asc_p01_B51b3a4a800130e14_562
+    21301128: f-asc_p01_B51b3a4a800130e14_563
+    21301130: f-asc_p01_B51b3a4a800130e14_564
+    21301132: f-asc_p01_B51b3a4a800130e14_565
+    21301134: f-asc_p01_B51b3a4a800130e14_566
+    21301136: f-asc_p01_B51b3a4a800130e14_567
+    21301138: f-asc_p01_B51b3a4a800130e14_568
+    21301140: f-asc_p01_B51b3a4a800130e14_569
+    21301142: f-asc_p01_B51b3a4a800130e14_570
+    21301144: f-asc_p01_B51b3a4a800130e14_571
+    21301146: f-asc_p01_B51b3a4a800130e14_572
+    21301148: f-asc_p01_B51b3a4a800130e14_573
+    21301150: f-asc_p01_B51b3a4a800130e14_574
+    21301152: f-asc_p01_B51b3a4a800130e14_575
+    21301154: f-asc_p01_B51b3a4a800130e14_576
+    21301156: f-asc_p01_B51b3a4a800130e14_577
+    21301158: f-asc_p01_B51b3a4a800130e14_578
+    21301160: f-asc_p01_B51b3a4a800130e14_579
+    21301162: f-asc_p01_B51b3a4a800130e14_580
+    21301164: f-asc_p01_B51b3a4a800130e14_581
+    21301166: f-asc_p01_B51b3a4a800130e14_582
+    21301168: f-asc_p01_B51b3a4a800130e14_583
+    21301170: f-asc_p01_B51b3a4a800130e14_584
+    21301172: f-asc_p01_B51b3a4a800130e14_585
+    21301174: f-asc_p01_B51b3a4a800130e14_586
+    21301176: f-asc_p01_B51b3a4a800130e14_587
+    21301178: f-asc_p01_B51b3a4a800130e14_588
+    21301180: f-asc_p01_B51b3a4a800130e14_589
+    21301182: f-asc_p01_B51b3a4a800130e14_590
+    21301184: f-asc_p01_B51b3a4a800130e14_591
+    21301186: f-asc_p01_B51b3a4a800130e14_592
+    21301188: f-asc_p01_B51b3a4a800130e14_593
+    21301190: f-asc_p01_B51b3a4a800130e14_594
+    21301192: f-asc_p01_B51b3a4a800130e14_595
+    21301194: f-asc_p01_B51b3a4a800130e14_596
+    21301196: f-asc_p01_B51b3a4a800130e14_597
+    21301198: f-asc_p01_B51b3a4a800130e14_598
+    21301200: f-asc_p01_B51b3a4a800130e14_599
+    21301202: f-asc_p01_B51b3a4a800130e14_600
+    21301204: f-asc_p01_B51b3a4a800130e14_601
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f-asc_p01_B51b3a4a800130e14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 480
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 480
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 482
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 482
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 484
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 486
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 488
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 490
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 449
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 482
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 482
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 482
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 493
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 477
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 481
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 481
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 489
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 491
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 495
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_23
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 486
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 487
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 486
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 486
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 483
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_28
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 484
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_29
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 491
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_30
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 498
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_31
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_32
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 498
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_33
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 477
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_34
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 462
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_35
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 470
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_36
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 461
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_37
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 467
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_38
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 482
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 459
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_40
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 482
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 448
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 450
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 450
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 452
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 454
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_46
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 450
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_47
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 450
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 450
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_50
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_51
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 455
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_52
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 441
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_53
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 449
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_54
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 449
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_55
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 450
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 471
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_57
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_58
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 459
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_59
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 458
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_60
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 451
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_61
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 452
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_62
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 466
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_63
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 466
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 456
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 458
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_67
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 449
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_68
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 449
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_69
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 437
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_70
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 438
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_71
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 446
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_72
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 448
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 416
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 416
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 418
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 422
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_79
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 386
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 417
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_81
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 418
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_82
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 418
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_83
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 429
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 413
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_85
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 417
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_86
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 417
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_87
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 434
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_88
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 426
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_89
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 430
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_90
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 431
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_91
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_92
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 430
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_93
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 419
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_94
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 420
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_95
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 426
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_96
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 427
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_97
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 430
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_98
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 428
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_100
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 424
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 426
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_103
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 406
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_104
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 405
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_105
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 405
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_106
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 414
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_107
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 413
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_108
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 413
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_109
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 413
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_110
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 405
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_111
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 410
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_112
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 402
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_113
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 384
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_114
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_115
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 386
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 386
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 388
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_120
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 388
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_121
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 377
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_122
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 382
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_123
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 385
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_124
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 401
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_125
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 394
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 394
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_127
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 387
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_128
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 386
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_129
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 390
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_130
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 387
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_131
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 388
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_132
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 406
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_133
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 395
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_134
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 408
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 390
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_137
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 392
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 394
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_139
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 388
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_140
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 391
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_141
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 377
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_142
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 377
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_143
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 381
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_144
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 382
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_145
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 384
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_146
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 374
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_147
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 388
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_148
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 352
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_149
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 352
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 354
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_151
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 354
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_152
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 356
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_153
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 358
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_154
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 353
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_157
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 354
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_158
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 366
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_159
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 346
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_160
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 353
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_161
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 349
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_162
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 370
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_163
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 374
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_164
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 359
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_165
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_166
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 357
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_167
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 357
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_168
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 355
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_169
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 356
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_170
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 354
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_171
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 360
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_172
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 363
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_173
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 368
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_175
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 360
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 362
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_177
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 356
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_178
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 341
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 350
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_180
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 346
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_181
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 358
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_182
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 346
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_183
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 320
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_184
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 320
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_185
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 322
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_186
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_187
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_188
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 342
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_189
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 321
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_190
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 338
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_191
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 333
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_192
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 330
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_193
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 333
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_194
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 333
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_195
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 323
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_196
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 323
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_197
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 326
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_198
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 336
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_199
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 331
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_200
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 348
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_202
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 322
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_203
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 324
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_204
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 326
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_205
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 328
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 330
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_208
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 324
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_209
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 322
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_210
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 309
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_211
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 321
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_212
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 322
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_213
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 322
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_214
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 318
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_215
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 318
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_216
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 328
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_217
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 288
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_218
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_219
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 290
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_220
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 292
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_221
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_222
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 292
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_223
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 301
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_224
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 289
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_225
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 289
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_226
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 290
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_227
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 297
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_228
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 314
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_229
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 306
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_230
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 310
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_231
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 309
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_232
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 291
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_233
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_234
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 312
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_235
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 299
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_236
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 288
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_237
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 308
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_239
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 294
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_240
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 296
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_242
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 298
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_243
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_244
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 273
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_245
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 295
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_246
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 299
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_247
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_248
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 278
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_249
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 285
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_250
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_251
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 285
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_252
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 287
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_253
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 286
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_254
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 256
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_255
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 258
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_256
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 258
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_257
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_258
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_259
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 260
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_260
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_261
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_262
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 257
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_263
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 257
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_264
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 261
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_265
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 273
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_266
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 273
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_267
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 278
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_268
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 261
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_269
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 265
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_270
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 259
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_271
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 261
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_272
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 265
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_273
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 267
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_274
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 256
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_275
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 266
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_277
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 262
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_278
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 264
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_279
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_280
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 266
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_281
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 257
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_282
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 258
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_283
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 246
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_284
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 254
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_285
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 258
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_286
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_287
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 250
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_288
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 262
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_289
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 224
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_290
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_291
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 226
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_292
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_293
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 197
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_294
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 224
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_295
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 228
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_296
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 242
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_297
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_298
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 222
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_299
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 230
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_300
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 230
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_301
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 241
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_302
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_303
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 238
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_304
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 237
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_305
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 242
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_306
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 227
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_307
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 237
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_308
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 250
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_309
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 235
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_310
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 224
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_311
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 246
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_312
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 230
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_313
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 232
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_314
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 244
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_315
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 232
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_316
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_317
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_318
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 234
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_319
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 230
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_320
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 227
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_321
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 217
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_322
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 226
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_323
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_324
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 213
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_325
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 213
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_326
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 218
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_327
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_328
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 226
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_329
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_330
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 194
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_331
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_332
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_333
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 198
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_334
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 200
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_335
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_336
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 197
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_337
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 212
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_338
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 207
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_339
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 185
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_340
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 186
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_341
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 197
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_342
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 189
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_343
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 206
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_344
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 206
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_345
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 210
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_346
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 214
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_347
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_348
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 195
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_349
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 212
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_350
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 203
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_351
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_352
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 204
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_353
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_354
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_355
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 202
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_356
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 198
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_357
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 191
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_358
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 189
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_359
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 189
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_360
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 190
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_361
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 189
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_362
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 189
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_363
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_364
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 192
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_365
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_366
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_367
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_368
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 164
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_369
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_370
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 166
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_371
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 168
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_372
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_373
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_374
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 165
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_375
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 180
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_376
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 167
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_377
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 165
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_378
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 158
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_379
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 181
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_380
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 166
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_381
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 169
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_382
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_383
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_384
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 162
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_385
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 165
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_386
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 169
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_387
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 163
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_388
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 172
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_389
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_390
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_391
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 180
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_392
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_393
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 170
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_394
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 170
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_395
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 166
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_396
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 149
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_397
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 150
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_398
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 153
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_399
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_400
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 156
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_401
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_402
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_403
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_404
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 132
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_405
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_406
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 133
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_407
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 128
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_408
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 146
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_409
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 151
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_410
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 130
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_411
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 142
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_412
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 155
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_413
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_414
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 138
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_415
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 134
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_416
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 138
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_417
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 146
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_418
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 131
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_419
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 152
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_420
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_421
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 138
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_422
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_423
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 134
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_424
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 136
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_425
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 138
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_426
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 132
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_427
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 129
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_428
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_429
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 114
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_430
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 126
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_431
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 125
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_432
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 131
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_433
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 126
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_434
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_435
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_436
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 132
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_437
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 127
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_438
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 130
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_439
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 132
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_440
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 96
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_441
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_442
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_443
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 100
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_444
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_445
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_446
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 66
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_447
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 96
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_448
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_449
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 96
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_450
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 114
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_451
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 113
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_452
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 97
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_453
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 97
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_454
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 118
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_455
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 109
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_456
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 110
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_457
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_458
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 106
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_459
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 110
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_460
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_461
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_462
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 98
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_463
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 112
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_464
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 95
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_465
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 105
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_466
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 107
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_467
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_468
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_469
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 104
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_470
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 106
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_471
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 100
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_472
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 99
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_473
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 77
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_474
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 81
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_475
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 93
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_476
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 89
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_477
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 90
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_478
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 85
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_479
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 92
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_480
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_481
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_482
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_483
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_484
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_485
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 68
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_486
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_487
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 70
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_488
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 72
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_489
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 74
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_490
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_491
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 68
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_492
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 65
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_493
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 67
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_494
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 82
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_495
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 77
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_496
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_497
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_498
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 65
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_499
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_500
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 70
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_501
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_502
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 82
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_503
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_504
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 63
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_505
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 70
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_506
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 70
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_507
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 63
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_508
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 81
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_509
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 83
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_510
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 68
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_511
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 58
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_512
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 45
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_513
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 66
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_514
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 58
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_515
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 54
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_516
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 54
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_517
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 46
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_518
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_519
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 59
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_520
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_521
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_522
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_523
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_524
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_525
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_526
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 38
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_527
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 40
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_528
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 42
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_529
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_530
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 42
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_531
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 36
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_532
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 33
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_533
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 35
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_534
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 47
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_535
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 37
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_536
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 30
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_537
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 33
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_538
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 37
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_539
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 46
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_540
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 45
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_541
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 37
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_542
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 29
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_543
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 29
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_544
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 31
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_545
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 40
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_546
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 47
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_547
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 46
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_548
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_549
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_550
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_551
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 19
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_552
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 9
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_553
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_554
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 9
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_555
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 21
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_556
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 26
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_557
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 18
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_558
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 18
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_559
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 8
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_560
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 21
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_561
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 30
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_562
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 9
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_563
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_564
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_565
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_566
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_567
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_568
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_569
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_570
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 8
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_571
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 10
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_572
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 10
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_573
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_574
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_575
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 15
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_576
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_577
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_578
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_579
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_580
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_581
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_582
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_583
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_584
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_585
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_586
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_587
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 14
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_588
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 10
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_589
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_590
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 492
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_591
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 458
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_592
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_593
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_594
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_595
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_596
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_597
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 418
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_598
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 290
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_599
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 448
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_600
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f-asc_p01_B51b3a4a800130e14_601
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
