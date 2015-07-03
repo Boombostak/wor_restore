@@ -26,7 +26,7 @@ public class HP_Spinner : MonoBehaviour {
     void Update()
     {
         {
-            transform.Rotate(0f, 0f, (rotation_speed * Time.deltaTime * signmult));
+            transform.Rotate(0f, 0f, (rotation_speed * Time.deltaTime * signmult * Pause.timescale));
         }
     }
 }

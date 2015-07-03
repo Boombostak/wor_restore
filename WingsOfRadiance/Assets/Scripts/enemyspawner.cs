@@ -57,7 +57,7 @@ public class enemyspawner : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        countdown = countdown - Time.deltaTime;
+        countdown = countdown - (Time.deltaTime*Pause.timescale);
         if (countdown <= 0 && numberspawned<number_to_spawn)
         {
             thing_to_spawn = enemymanager.GetComponent<EnemyManagerGO>().SpawnAnEnemy(this.transform, "Union", enemy_type);

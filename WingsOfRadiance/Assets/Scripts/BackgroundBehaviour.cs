@@ -23,7 +23,7 @@ public class BackgroundBehaviour : MonoBehaviour {
 	// Update is called once per frame
     void Update()
     {
-        this.transform.Translate(0, -scrollspeed_y * Time.deltaTime, 0);
+        this.transform.Translate(0, -scrollspeed_y * Time.deltaTime * Pause.timescale, 0);
 
         if (this.transform.position.y < culling_y_position)
         {
@@ -46,10 +46,4 @@ public class BackgroundBehaviour : MonoBehaviour {
         }
         
     }
-
-    /*void OnBecameVisible() //deprecated
-    {
-        offset = new Vector3(0, this.transform.position.y + this.GetComponent<SpriteRenderer>().bounds.size.y, 0);
-        Instantiate(bg_selection, offset, this.transform.rotation);
-    }*/
 }

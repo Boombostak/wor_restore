@@ -11,7 +11,7 @@ public class MissionUI : MonoBehaviour {
 	public Mission selectedmission;
 
 	void Start () {
-				missionselectionsUI = GameObject.Find ("MissionSelections");
+				missionselectionsUI = GameObject.Find ("MissionSelectionsUI");
 				//Debug.Log ("MissionSelections is" + missionselectionsUI);
 				missionmanager = GameObject.Find ("MissionManager");
 				//Debug.Log ("MissionManager is" + missionmanager);

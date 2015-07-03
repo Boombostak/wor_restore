@@ -15,7 +15,7 @@ public class EMForward : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         movementvector = ((Vector3.up) * speed);//UP is y axis
-		this.gameObject.transform.Translate (movementvector * Time.deltaTime);
-		transform.Translate (backgroundvector * Time.deltaTime, Space.World);
+		this.gameObject.transform.Translate (movementvector * Time.deltaTime *Pause.timescale);
+		transform.Translate (backgroundvector * (Time.deltaTime * Pause.timescale), Space.World);
 	}
 }

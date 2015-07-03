@@ -17,7 +17,7 @@ public class Projectile : MonoBehaviour {
 
     void Update()
     {
-        this.transform.Translate(Vector3.up * Time.deltaTime * speed);
+        this.transform.Translate(Vector3.up * Time.deltaTime * speed * Pause.timescale);
     }
 
     void OnTriggerEnter2D(Collider2D othercollider)

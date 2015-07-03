@@ -20,7 +20,7 @@ public class EMSine : MonoBehaviour {
 
         sinevector = new Vector3(Mathf.Sin(transform.position.y), 0, 0) * amplitude;
         movevector = (sinevector + linearvector);//should keep a consistent speed.
-		transform.Translate(movevector * Time.deltaTime);
+		transform.Translate(movevector * Time.deltaTime*Pause.timescale);
 		//transform.Translate(backgroundvector * Time.deltaTime, Space.World);
 	}
 }

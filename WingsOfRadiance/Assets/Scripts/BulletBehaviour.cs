@@ -16,13 +16,6 @@ public class BulletBehaviour : MonoBehaviour
     public GameObject item_to_drop;
     
     public static GameObject lootmanager;
-    /*public GameObject whattodrop;
-    public LootWrapperClasses.LootItemType[] loottypearray;
-    public LootWrapperClasses.LootItemRarity[] lootrarityarray;
-    public LootWrapperClasses.LootTable[] loottablearray;
-    public GameObject[] lootitemsarray;
-    
-     */
     
 
     // Use this for initialization
@@ -43,7 +36,7 @@ public class BulletBehaviour : MonoBehaviour
     
     void Update()
     {
-        gameObject.transform.Translate(0, bullet_speed * Time.deltaTime, 0);
+        gameObject.transform.Translate(0, bullet_speed * Time.deltaTime * Pause.timescale, 0);
     }
 
     

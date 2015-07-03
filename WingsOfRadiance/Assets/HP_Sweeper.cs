@@ -21,7 +21,7 @@ public class HP_Sweeper : MonoBehaviour {
     void Update()
     {
         {//these values are not relative to initial rotation! That's why the start method does nothing.
-        _Time = _Time + Time.deltaTime;
+        _Time = _Time + (Time.deltaTime*Pause.timescale);
         float phase = Mathf.Sin(_Time / _Period);
         transform.localRotation = Quaternion.Euler(new Vector3(0, 0, (phase * _Angle)));
         }

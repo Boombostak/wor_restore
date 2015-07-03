@@ -41,7 +41,7 @@ public class player_shooting : MonoBehaviour
         
         shooting = Input.GetButton("Fire1");
         
-        shot_countdown -= Time.deltaTime;//decrease the countdown
+        shot_countdown -= Time.deltaTime * Pause.timescale;//decrease the countdown
 
         if (shot_countdown <= 0f)
             ready_to_shoot = true;
@@ -49,7 +49,7 @@ public class player_shooting : MonoBehaviour
             ready_to_shoot = false;
 
 
-        if (shooting && ready_to_shoot)
+        if (shooting && ready_to_shoot &&!Pause.isPaused)
         {
             Instantiate(shot, transform.position, transform.rotation);//fire a shot
             shot_countdown = BulletBehaviour.rof;//increase the countdown

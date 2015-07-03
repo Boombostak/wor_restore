@@ -15,6 +15,6 @@ public class HPPlayerTracker : MonoBehaviour {
 	void Update () {
 		rotation = Quaternion.LookRotation
 			(Vector3.forward, player.transform.position - this.transform.position);//I don't know how this works. Trial and error!
-		transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * tracking_damping);
+		transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * tracking_damping * Pause.timescale);
 	}
 }
