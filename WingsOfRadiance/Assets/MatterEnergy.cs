@@ -64,7 +64,7 @@ public class MatterEnergy : MonoBehaviour {
 	IEnumerator DebrisBlink()
 	{
 		yield return new WaitForSeconds(0.2f);
-		this.renderer.enabled = !this.renderer.enabled;
+		this.GetComponent<Renderer>().enabled = !this.GetComponent<Renderer>().enabled;
 		isblinking = true;
 		Debug.Log("called itemblink");
 	}

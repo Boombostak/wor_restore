@@ -57,8 +57,8 @@ public class player_movement : MonoBehaviour {
 
         bottomleftworldcoordinates = camera.ViewportToWorldPoint(Vector3.zero);
         toprightworldcoordinates = camera.ViewportToWorldPoint(new Vector3(1, 1, 0));
-        movementrangemin = bottomleftworldcoordinates + this.renderer.bounds.extents;
-        movementrangemax = toprightworldcoordinates - this.renderer.bounds.extents;
+        movementrangemin = bottomleftworldcoordinates + this.GetComponent<Renderer>().bounds.extents;
+        movementrangemax = toprightworldcoordinates - this.GetComponent<Renderer>().bounds.extents;
         movement = movement * speed * Time.deltaTime * Pause.timescale;
         transform.Translate(movement);
         this.transform.position = new Vector3(Mathf.Clamp(this.transform.position.x, movementrangemin.x, movementrangemax.x), 
