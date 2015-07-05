@@ -28,10 +28,10 @@ public class VarToText : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        currentmattervar = playertraits.currentmatter;
-        maxmattervar = playertraits.matter_max;
-        currentenergyvar = playertraits.energy_max;
-        maxenergyvar = playertraits.energy_max;
+        currentmattervar = playertraits.currentMatter;
+        maxmattervar = playertraits.matterMax;
+        currentenergyvar = playertraits.energyMax;
+        maxenergyvar = playertraits.energyMax;
         currentstoragevar = inventory.storage;
         maxstoragevar = inventory.maxstorage;
 
