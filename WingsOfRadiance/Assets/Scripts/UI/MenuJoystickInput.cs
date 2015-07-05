@@ -19,15 +19,7 @@ public class MenuJoystickInput : MonoBehaviour {
 
 	void Start () 
 	{
-		buttons = new GameObject[GetComponentsInChildren<Button>().Length];
-		for (int i = 0; i < buttons.Length; i++) 
-			{
-			buttons[i] = GetComponentsInChildren<Button> ()[i].gameObject;
-			}
-		selected_button = buttons [0];
-		current_int = 0;
-		revert = buttons [0].GetComponent<Image> ().color;
-		buttons [0].GetComponent<Image> ().color = highlight;
+        FindActiveButtons();
 	}
 
 	//Cleanup to catch interrupted coroutines
@@ -91,4 +83,17 @@ public class MenuJoystickInput : MonoBehaviour {
 			StartCoroutine("MenuClick");
 		}
 	}
+
+    public void FindActiveButtons()
+    {
+        buttons = new GameObject[GetComponentsInChildren<Button>().Length];
+        for (int i = 0; i < buttons.Length; i++)
+        {
+            buttons[i] = GetComponentsInChildren<Button>()[i].gameObject;
+        }
+        selected_button = buttons[0];
+        current_int = 0;
+        revert = buttons[0].GetComponent<Image>().color;
+        buttons[0].GetComponent<Image>().color = highlight;
+    }
 }

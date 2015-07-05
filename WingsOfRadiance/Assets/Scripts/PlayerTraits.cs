@@ -9,7 +9,7 @@ public class PlayerTraits : MonoBehaviour {
     //basic stats
     public int xp;
     public int gunnery_skill;
-    public int reflexes_skill;
+    public int piloting_skill;
     public int tech_skill;
     //derived stats
     public int playerlvl;
@@ -68,5 +68,10 @@ public class PlayerTraits : MonoBehaviour {
 		GameObject.Find ("MissionManager").SendMessage("PlayerDied");
 		this.gameObject.SetActive (false);
         Debug.Log("Player has died");
+    }
+
+    public void AssignPlayerName(string name)
+    {
+        playername = name;
     }
 }
