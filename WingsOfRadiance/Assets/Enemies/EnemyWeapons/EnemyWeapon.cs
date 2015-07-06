@@ -52,7 +52,6 @@ public class EnemyWeapon : MonoBehaviour
         {
             shot_origins[i].transform.parent = thisenemy.transform.Find("hardpoints").GetChild(i);
             shot_origins[i].transform.localPosition = Vector3.zero;
-            shot_origins[i].transform.localScale = Vector3.one;
         }
     }
 

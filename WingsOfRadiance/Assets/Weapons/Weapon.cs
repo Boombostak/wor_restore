@@ -38,10 +38,11 @@ public class Weapon : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player");
         playertraits = player.GetComponent<PlayerTraits>();
         currentfuselage = player.transform.Find("fuselage").GetChild(0).gameObject;
-        floatdamage = ((float)basedamage * playertraits.damageMultiplier) + (float)playertraits.damageBonus;
+        //Debug.Log("curret fuselage is" + currentfuselage);
+        floatdamage = (float)basedamage * playertraits.damage_multiplier + (float)playertraits.damage_bonus;
         finaldamage = (int)floatdamage;
         final_proj_speed = base_proj_speed * 1;//playertrait not set up
-        finalrof = baserof * playertraits.rofMultiplier;
+        finalrof = baserof * playertraits.rof_multiplier;
         shot_delay = 1 / finalrof;
         basedps = baserof * (float)basedamage;
         finaldps = finalrof * (float)finaldamage;
@@ -87,7 +88,6 @@ public class Weapon : MonoBehaviour
         
         if ((Input.GetButton(shootbutton)) && (shot_countup > shot_delay) &&(!Pause.isPaused))
         {
-            Debug.Log("trying to shoot");
             Shoot();
         }
     }

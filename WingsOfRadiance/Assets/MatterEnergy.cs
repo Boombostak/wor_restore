@@ -26,10 +26,10 @@ public class MatterEnergy : MonoBehaviour {
 		{
 			playertraits = othercollider.gameObject.GetComponent<PlayerTraits>();
 			
-			if (playertraits.currentMatter < playertraits.matterMax || playertraits.currentEnergy < playertraits.energyMax)
+			if (playertraits.currentmatter < playertraits.matter_max || playertraits.currentenergy < playertraits.energy_max)
 			{
-				playertraits.currentMatter += matter;
-				playertraits.currentEnergy += energy;
+				playertraits.currentmatter += matter;
+				playertraits.currentenergy += energy;
 				this.gameObject.Recycle();
 			}
 		}

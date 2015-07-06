@@ -50,9 +50,9 @@ public class EnemyProjectile : MonoBehaviour {
             hitplayer = othercollider.gameObject;
             enemy_script = hitplayer.GetComponent<PlayerTraits>();
 
-            if (enemy_script.currentMatter >= 1)
+            if (enemy_script.currentmatter >= 1)
             {
-                enemy_script.currentMatter -= damage;
+                enemy_script.currentmatter -= damage;
             }
             this.gameObject.Recycle();
         }

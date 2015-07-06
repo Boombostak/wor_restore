@@ -11,6 +11,7 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
     private Vector3 movement;
     private Vector3 spawnpoint;
     public int health = 1;
+    public GameObject weapon;
     public GameObject explosion;
     public GameObject item_to_drop;
     public static GameObject lootmanager;
@@ -105,9 +106,9 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
 			hitplayer = othercollider.gameObject;
 			enemy_script = hitplayer.GetComponent<PlayerTraits>();
 			
-			if (enemy_script.currentMatter >= 1)
+			if (enemy_script.currentmatter >= 1)
 			{
-				enemy_script.currentMatter -= health;
+				enemy_script.currentmatter -= health;
 			}
 			Instantiate(explosion, this.transform.position, Quaternion.identity);
 			Destroy(this.gameObject);
