@@ -4,26 +4,26 @@ using UnityEngine.UI;
 
 public class InputFieldAutoSelect : MonoBehaviour {
 
-    public bool alwaysAutoSelect = true;
+    /*public bool alwaysAutoSelect = true;
     
     void OnEnable()
     {
         Select();
-    }
-
+    }*/
+    
+    
     void Update()
     {
-        if (this.GetComponent<InputField>().isFocused == false && alwaysAutoSelect == true)
+        if (!this.GetComponent<InputField>().isFocused)
         {
-            Debug.Log("trying to autoselect");
-            Select();
+            this.GetComponent<InputField>().Select();
         }
     }
 
-    public void Select()
+    /*public void Select()
     {
             this.GetComponent<InputField>().Select();
             Debug.Log("called Select");
             Debug.Log(this.GetComponent<InputField>());
-    }
+    }*/
 }

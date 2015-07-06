@@ -5,22 +5,30 @@ using UnityEngine.UI;
 public class PilotStatusUI : MonoBehaviour {
 
     public PlayerTraits playertraits;
-    public Text statustext;
+    public Text nameText;
+    public Text experienceText;
+    public Text levelText;
+    public Text gunneryText;
+    public Text pilotingText;
+    public Text techText;
     public GameObject textboxGO;
     public Font font;
+
+    //level-up variables
+    public int pointsToSpend;
     
     
 	void OnEnable () {
         playertraits = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerTraits>();
 
-        statustext.text =
-            "Name: " + playertraits.playername + "\n" +
-            "Experience " + playertraits.xp + " Level" + playertraits.playerlvl + "\n" +
-            "Gunnery Skill " + playertraits.gunnery_skill + "\n" +
-            "Piloting Skill " + playertraits.piloting_skill + "\n" +
-            "Tech Skill " + playertraits.tech_skill;
+        nameText.text = "Name: " + playertraits.playername;
+        experienceText.text = "Experience " + playertraits.xp;
+        levelText.text = " Level" + playertraits.playerlvl;
+        gunneryText.text = playertraits.gunnery_skill.ToString();
+        pilotingText.text = playertraits.piloting_skill.ToString();
+        techText.text = playertraits.tech_skill.ToString();
 
-        statustext.font = font;
-        textboxGO.GetComponent<Text>().text = statustext.text;
+
+        nameText.font = font; experienceText.font = font; levelText.font = font; gunneryText.font = font; pilotingText.font = font; techText.font = font;
 	}
 }
