@@ -15,6 +15,8 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
     public GameObject explosion;
     public GameObject item_to_drop;
     public static GameObject lootmanager;
+    public GameObject player;
+    public PlayerTraits playerTraits;
     public int dropchance = 30;
     public int drop_rng;
 	public int matter_to_drop;
@@ -29,6 +31,8 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
     // Use this for initialization
 	void Start () {
         lootmanager = GameObject.FindGameObjectWithTag("lootmanager");
+        player = GameObject.FindGameObjectWithTag("Player");
+        playerTraits = player.GetComponent<PlayerTraits>();
         //Debug.Log(lootmanager + "is your lootmanager!");
         drop_rng = UnityEngine.Random.Range(0, 100);
         speed = speed * speed_multiplier;
@@ -71,6 +75,7 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
 
     public void DestroyThis()
     {
+        playerTraits.xp += this.xp;
         Destroy(this.gameObject);
     }
 

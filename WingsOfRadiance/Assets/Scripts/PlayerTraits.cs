@@ -37,15 +37,14 @@ public class PlayerTraits : MonoBehaviour {
 	void Awake(){
 		SharedVariables.player = this.gameObject;
 		}
-	void Start()
+	
+    void Start()
     {
 				for (int i = 0; i < ExperienceTable.xp_for_level_i.Length; i++) {
 						if (xp >= ExperienceTable.xp_for_level_i [i]) {
 								playerlvl = i;
 						}
 						SharedVariables.playerlevel = playerlvl;
-        
-
 						currentmatter = matter_max;
 						currentenergy = energy_max;
 				}
@@ -66,6 +65,7 @@ public class PlayerTraits : MonoBehaviour {
     {
 		Instantiate (deathexplosion, this.transform.position, Quaternion.identity);
 		GameObject.Find ("MissionManager").SendMessage("PlayerDied");
+        SharedVariables.playertraits = this.GetComponent<PlayerTraits>();
 		this.gameObject.SetActive (false);
         Debug.Log("Player has died");
     }

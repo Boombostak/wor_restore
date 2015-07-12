@@ -5,6 +5,7 @@ public class MissionManager : MonoBehaviour {
 
 	public GameObject[] missionarray = new GameObject[5];
 	public GameObject selectedmission;
+    public GameObject player;
 
 	void Awake(){
 		MissionManager[] managers = GameObject.FindObjectsOfType<MissionManager>();
@@ -51,4 +52,18 @@ public class MissionManager : MonoBehaviour {
 		yield return new WaitForSeconds(3f);
 		Application.LoadLevel ("homebase");
 	}
+
+    //copies the fields of a component and adds a duplicate component to a gameobject
+    public Component CopyComponent(Component original, GameObject destination)
+    {
+        System.Type type = original.GetType();
+        Component copy = destination.AddComponent(type);
+        // Copied fields can be restricted with BindingFlags
+        System.Reflection.FieldInfo[] fields = type.GetFields();
+        foreach (System.Reflection.FieldInfo field in fields)
+        {
+            field.SetValue(copy, field.GetValue(original));
+        }
+        return copy;
+    }
 }

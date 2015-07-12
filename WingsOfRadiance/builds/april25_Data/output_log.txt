@@ -1573,3 +1573,23 @@ timer3
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+HandleD3DDeviceLost
+D3Dwindow device not lost anymore
+Player has died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 114.637482 ms
+Too many MissionManagers! Had to cull!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1530.
+Total: 14.570373 ms (FindLiveObjects: 0.513731 ms CreateObjectMapping: 0.858120 ms MarkObjects: 8.294403 ms  DeleteObjects: 1.130666 ms)
+
