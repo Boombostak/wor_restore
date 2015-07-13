@@ -29,10 +29,15 @@ public class player_movement : MonoBehaviour {
 	void Start () {
 		camera = GameObject.Find ("Main Camera").GetComponent<Camera>();
 		SharedVariables.camera = camera;
-		//positionmin = CameraBehaviour.background_snapshot.min.x;
-        //positionmax = CameraBehaviour.background_snapshot.max.x;
-        
+        this.transform.position = Vector3.zero;
 	}
+
+    void OnLevelWasLoaded()
+    {
+        camera = GameObject.Find("Main Camera").GetComponent<Camera>();
+        SharedVariables.camera = camera;
+        this.transform.position = Vector3.zero;
+    }
 	
 // Update is called once per frame
 	void Update () {

@@ -36,6 +36,7 @@ public class PlayerTraits : MonoBehaviour {
 
 	void Awake(){
 		SharedVariables.player = this.gameObject;
+        DontDestroyOnLoad(this.gameObject);
 		}
 	
     void Start()

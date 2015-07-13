@@ -17,6 +17,8 @@ public class CameraBehaviour : MonoBehaviour
 
     void Awake()
     {
+        player = GameObject.FindGameObjectWithTag("Player");
+        playermovement = player.GetComponent<player_movement>();
         camera = this.GetComponent<Camera>();
 		backgroundrenderer = SharedVariables.startingtile.GetComponent<SpriteRenderer> ();
         background_snapshot = backgroundrenderer.bounds;
@@ -26,6 +28,27 @@ public class CameraBehaviour : MonoBehaviour
         if (TATE)
         {
             
+            //halfrect = camera.ViewportToWorldPoint / 2f;
+        }
+        else
+        {
+            //halfrect = camera.ViewportToWorldPoint / 2f;
+        }
+    }
+
+    void OnLevelWasLoaded()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+        playermovement = player.GetComponent<player_movement>();
+        camera = this.GetComponent<Camera>();
+        backgroundrenderer = SharedVariables.startingtile.GetComponent<SpriteRenderer>();
+        background_snapshot = backgroundrenderer.bounds;
+        xmin = background_snapshot.min.x;
+        xmax = background_snapshot.max.x;
+
+        if (TATE)
+        {
+
             //halfrect = camera.ViewportToWorldPoint / 2f;
         }
         else
