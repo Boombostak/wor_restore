@@ -110,11 +110,7 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
 		{
 			hitplayer = othercollider.gameObject;
 			enemy_script = hitplayer.GetComponent<PlayerTraits>();
-			
-			if (enemy_script.currentmatter >= 1)
-			{
-				enemy_script.currentmatter -= health;
-			}
+            enemy_script.currentmatter -= health;
 			Instantiate(explosion, this.transform.position, Quaternion.identity);
 			Destroy(this.gameObject);
 		}

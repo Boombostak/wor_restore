@@ -56,9 +56,10 @@ public class PlayerTraits : MonoBehaviour {
 		if (currentmatter > matter_max) {currentmatter = matter_max;}
 		if (currentenergy > energy_max) {currentenergy = energy_max;}
 
-        if (currentmatter < 1)
+        if (currentmatter < 0)
         {
             PlayerDied();
+            currentmatter = 0;
         }
     }
 
@@ -66,13 +67,19 @@ public class PlayerTraits : MonoBehaviour {
     {
 		Instantiate (deathexplosion, this.transform.position, Quaternion.identity);
 		GameObject.Find ("MissionManager").SendMessage("PlayerDied");
-        SharedVariables.playertraits = this.GetComponent<PlayerTraits>();
-		this.gameObject.SetActive (false);
+        GameObject.Find("HighScoreManager").GetComponent<HighScore>().ConstructHighscore();
+        GameObject.Find("HighScoreManager").GetComponent<HighScore>().SortScores();
+        //SharedVariables.playertraits = this.GetComponent<PlayerTraits>();
+		//this.GetComponent<PlayerRenderManager>().playerIsDead = true;
+        //this.GetComponent<PlayerRenderManager>().Invoke("FindRenderers", 0);
         Debug.Log("Player has died");
+        ClassSelection.traitsHaveBeenAssigned = false;
+        Destroy(this.gameObject);
     }
 
     public void AssignPlayerName(string name)
     {
         playername = name;
+        this.gameObject.name = name;
     }
 }

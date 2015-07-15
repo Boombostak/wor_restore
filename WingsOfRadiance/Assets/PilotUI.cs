@@ -11,7 +11,7 @@ public class PilotUI : MonoBehaviour {
         CheckForClassSelection();
     }
     
-    public  void CheckForClassSelection()
+    public void CheckForClassSelection()
     {
         if (ClassSelection.traitsHaveBeenAssigned == true)
         {
