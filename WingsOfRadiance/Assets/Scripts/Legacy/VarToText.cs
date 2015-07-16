@@ -30,7 +30,7 @@ public class VarToText : MonoBehaviour {
 
         currentmattervar = playertraits.currentmatter;
         maxmattervar = playertraits.matter_max;
-        currentenergyvar = playertraits.energy_max;
+        currentenergyvar = playertraits.currentenergy;
         maxenergyvar = playertraits.energy_max;
         currentstoragevar = inventory.storage;
         maxstoragevar = inventory.maxstorage;

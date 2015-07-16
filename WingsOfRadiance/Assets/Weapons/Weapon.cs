@@ -8,7 +8,8 @@ public class Weapon : MonoBehaviour
     public int hardpoints;
     public GameObject currentfuselage;
     public int originmax;
-    
+
+    public int energycost;
     public int basedamage;
     public float floatdamage;
     public int finaldamage;
@@ -86,7 +87,7 @@ public class Weapon : MonoBehaviour
         shot_countup += (Time.deltaTime * Pause.timescale);
         //Debug.Log(shot_countup);
         
-        if ((Input.GetButton(shootbutton)) && (shot_countup > shot_delay) &&(!Pause.isPaused))
+        if ((Input.GetButton(shootbutton)) && (shot_countup > shot_delay) &&(!Pause.isPaused) && (playertraits.currentenergy - energycost >= 0))
         {
             Shoot();
         }
@@ -99,6 +100,7 @@ public class Weapon : MonoBehaviour
             proj_instance.Spawn(i.transform.position, i.transform.rotation);
         }
             shot_countup = 0;
+            playertraits.currentenergy -= energycost;
     }
 
     //consider replacing with a nested for loop that makes each shot origin a child of the player's hardpoints in order
