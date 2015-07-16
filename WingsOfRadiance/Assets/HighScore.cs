@@ -6,17 +6,21 @@ public class HighScore : MonoBehaviour {
 
     public PlayerTraits playertraits;
     public static Dictionary<int, ScoringPlayer> highScoreDict;
-    public List<int> scores;
-    public List<ScoringPlayer> players;
-    public ScoringPlayer[] top10;
+    public List<ScoringPlayer> top10;
+    public ScoringPlayer[] top10array;
+    public string[] top10names;
+    public int[] top10scores;
     public static int IDIterator = 0;
+    public bool originalHSM = false;
 
     void Awake()
     {
         DontDestroyOnLoad(this.gameObject);
         highScoreDict = new Dictionary<int,ScoringPlayer>();
-        players = new List<ScoringPlayer>();
-        top10 = new ScoringPlayer[10];
+        top10 = new List<ScoringPlayer>();
+        top10array = new ScoringPlayer[10];
+        top10names = new string[10];
+        top10scores = new int[10];
         SaveLoad.Load();
         SortScores();
     }
@@ -28,7 +32,7 @@ public class HighScore : MonoBehaviour {
             Debug.Log("Too many highscore managers");
             foreach (GameObject go in GameObject.FindGameObjectsWithTag("highscoremanager"))
             {
-                if (go.GetComponent<HighScore>().scores.Count < 1)
+                if (go.GetComponent<HighScore>().originalHSM == false)
                 {
                     Destroy(go.gameObject);
                 }
@@ -61,31 +65,22 @@ public class HighScore : MonoBehaviour {
 
     public void SortScores()
     {
-        scores = new List<int>();
-        foreach (KeyValuePair<int, ScoringPlayer> kvp in highScoreDict)
+        highScoreDict.OrderByDescending(x => x.Value.score);
+        top10.AddRange(highScoreDict.Values);
+        top10array = top10.ToArray();
+        for (int i = 0; i < top10array.Length; i++)
         {
-            players.Add(kvp.Value);
+            top10names[i] = top10array[i].name;
         }
-        foreach (ScoringPlayer sp in players)
+        for (int i = 0; i < top10array.Length; i++)
         {
-            scores.Add(sp.score);
+            top10scores[i] = top10array[i].score;
         }
-        scores.Sort((a, b) => -1 * a.CompareTo(b)); // descending sort
-        
-        players.OrderByDescending(x => x.score);
-        for (int i = 0; i < 9; i++)
-        {
-            //this is causing crashes
-            if (top10[i]!=null && players[i] != null)
-            {
-            top10[i] = players[i];
-            }
         }
     }
 
-    public class ScoringPlayer{
+    public class ScoringPlayer:MonoBehaviour{
         public int ID;
         public string name;
         public int score;
     }
-}
