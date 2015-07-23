@@ -110,7 +110,12 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
 		{
 			hitplayer = othercollider.gameObject;
 			enemy_script = hitplayer.GetComponent<PlayerTraits>();
+            //issue with ramming not spawning matter/energy
             enemy_script.currentmatter -= health;
+            for (int i = 0; i < mattergos.Length; i++)
+            {
+                Instantiate(mattergos[i], this.transform.position, Quaternion.identity);
+            }
 			Instantiate(explosion, this.transform.position, Quaternion.identity);
 			Destroy(this.gameObject);
 		}
