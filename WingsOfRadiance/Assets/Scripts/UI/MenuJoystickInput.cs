@@ -70,11 +70,11 @@ public class MenuJoystickInput : MonoBehaviour {
 	void Update () 
 	{
 	
-		if (Input.GetAxisRaw("Vertical") < 0 && !isRunningUp) 
+		if ((Input.GetAxisRaw("Vertical") < 0 || Input.GetAxisRaw("Horizontal") >0) && !isRunningUp) 
 		{
 			StartCoroutine("MenuSelectUp");
 		}
-		if (Input.GetAxisRaw("Vertical") > 0 && !isRunningDown) 
+		if ((Input.GetAxisRaw("Vertical") > 0 || Input.GetAxisRaw("Horizontal") <0)&& !isRunningDown) 
 		{
 			StartCoroutine("MenuSelectDown");
 		}

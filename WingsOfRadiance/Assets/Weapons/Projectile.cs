@@ -7,17 +7,24 @@ public class Projectile : MonoBehaviour {
 	public float animdamagemodifier;
 	public int finaldamage;
     public float speed;
+    public float lifeSpan = Mathf.Infinity;
+    public float countUp;
     public GameObject hit_enemy;
     public EnemyBehaviour enemy_script;
-
-    void Start()
-    {
-
-    }
+    public GameObject hitSpark;
 
     void Update()
     {
         this.transform.Translate(Vector3.up * Time.deltaTime * speed * Pause.timescale);
+        if (lifeSpan!=Mathf.Infinity)
+        {
+            countUp += Time.deltaTime;
+            if (countUp>lifeSpan)
+            {
+                AnimSpawnSpark();
+                AnimDestroy();
+            }
+        }
     }
 
     void OnTriggerEnter2D(Collider2D othercollider)
@@ -32,6 +39,10 @@ public class Projectile : MonoBehaviour {
             {
                 enemy_script.health -= finaldamage;
             }
+            if (hitSpark!=null)
+            {
+                AnimSpawnSpark();
+            }
             this.gameObject.Recycle();
         }
         //Debug.Log("hit"+othercollider);
@@ -40,5 +51,10 @@ public class Projectile : MonoBehaviour {
 	public void AnimDestroy(){
 				Destroy (this.gameObject);
 		}
+
+    public void AnimSpawnSpark()
+    {
+        Instantiate(hitSpark, this.transform.position, this.transform.rotation);
+    }
 
 }
