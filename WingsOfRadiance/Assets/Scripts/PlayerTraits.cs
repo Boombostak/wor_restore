@@ -5,7 +5,7 @@ using System.Collections;
 public class PlayerTraits : MonoBehaviour {
 
     
-    public string playername;
+    public string playername = "noname";
     //basic stats
     public int xp;
     public int gunnery_skill;
@@ -35,10 +35,39 @@ public class PlayerTraits : MonoBehaviour {
 
     public bool playerIsDying = false;
 
+    //singleton
+    public static PlayerTraits _instance;
+    public static PlayerTraits instance
+    {
+        get
+        {
+            if (_instance==null)
+            {
+                _instance = GameObject.FindObjectOfType<PlayerTraits>();
+                DontDestroyOnLoad(_instance.gameObject);
+            }
+            return _instance;
+        }
+    }
+
+
 
 	void Awake(){
-		SharedVariables.player = this.gameObject;
-        DontDestroyOnLoad(this.gameObject);
+		if(_instance == null)
+        {
+            //If I am the first instance, make me the Singleton
+            _instance = this;
+            DontDestroyOnLoad(this);
+        }
+        else
+        {
+            //If a Singleton already exists and you find
+            //another reference in scene, destroy it!
+            if(this != _instance)
+                Destroy(this.gameObject);
+        }
+        
+        SharedVariables.player = this.gameObject;
 		}
 	
     void Start()
@@ -70,8 +99,8 @@ public class PlayerTraits : MonoBehaviour {
         playerIsDying = true;
         Instantiate (deathexplosion, this.transform.position, Quaternion.identity);
 		GameObject.Find ("MissionManager").SendMessage("PlayerDied");
-        //GameObject.Find("HighScoreManager").GetComponent<HighScore>().ConstructHighscore();
-        //GameObject.Find("HighScoreManager").GetComponent<HighScore>().SortScores();
+        GameObject.Find("HighScoreManager").GetComponent<HighScore>().ConstructHighscore();
+        GameObject.Find("HighScoreManager").GetComponent<HighScore>().SortScores();
         //SharedVariables.playertraits = this.GetComponent<PlayerTraits>();
 		//this.GetComponent<PlayerRenderManager>().playerIsDead = true;
         //this.GetComponent<PlayerRenderManager>().Invoke("FindRenderers", 0);

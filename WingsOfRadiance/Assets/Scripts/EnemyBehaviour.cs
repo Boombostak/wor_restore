@@ -32,15 +32,20 @@ public class EnemyBehaviour : MonoBehaviour, IDestructible, IDamageable {
 	void Start () {
         lootmanager = GameObject.FindGameObjectWithTag("lootmanager");
         player = GameObject.FindGameObjectWithTag("Player");
-        playerTraits = player.GetComponent<PlayerTraits>();
-        //Debug.Log(lootmanager + "is your lootmanager!");
-        drop_rng = UnityEngine.Random.Range(0, 100);
-        speed = speed * speed_multiplier;
-		if (moves_with_background) {
-			backgroundvector = Vector3.up * -SharedVariables.startingtile.GetComponent<BackgroundBehaviour>().scrollspeed_y;}
-		else {backgroundvector = -Vector3.up;}
-		//Debug.Log ("backgroundvector: " + backgroundvector);
-        AddMovePattern(movement_pattern_string);
+        if (player!=null)
+        {
+            playerTraits = player.GetComponent<PlayerTraits>();
+            //Debug.Log(lootmanager + "is your lootmanager!");
+            drop_rng = UnityEngine.Random.Range(0, 100);
+            speed = speed * speed_multiplier;
+            if (moves_with_background)
+            {
+                backgroundvector = Vector3.up * -SharedVariables.startingtile.GetComponent<BackgroundBehaviour>().scrollspeed_y;
+            }
+            else { backgroundvector = -Vector3.up; }
+            //Debug.Log ("backgroundvector: " + backgroundvector);
+            AddMovePattern(movement_pattern_string);
+        }
 	}
 	
 	// Update is called once per frame

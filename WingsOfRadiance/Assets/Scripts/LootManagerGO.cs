@@ -116,7 +116,7 @@ public class LootManagerGO : MonoBehaviour {
         rarity_indicator_prefab = null;
         //Destroy(clone_to_spawn);
         thing_to_spawn.GetComponent<SocketScript>().AddSockets(level_int); //nulref exceptions spawn too many drops!
-        Debug.Log("levelint " +level_int);
+        //Debug.Log("levelint " +level_int);
         return thing_to_spawn;
     }
 

@@ -6,24 +6,21 @@ using UnityEngine.UI;
 public class HighScoreUI : MonoBehaviour {
 
     public HighScore highscore;
-    public List<ScoringPlayer> top10;
-    public Text[] texts;
-    public Dictionary<int, ScoringPlayer> dict;
+    public Text UItext1;
+    public Text UItext2;
+    public List<string> names;
+    public List<int> scores;
 
     void OnEnable()
     {
-        highscore = GameObject.Find("HighScoreManager").GetComponent < HighScore > ();
-        top10 = highscore.top10;
-        for (int i = 0; i < texts.Length; i++)
+        highscore = GameObject.FindObjectOfType<HighScore>();
+        names = highscore.top10nameslist;
+        scores = highscore.top10scorelist;
+        UItext1.text = null;
+        for (int i = 0; i < names.Count; i++)
         {
-            if (top10!=null)
-            {
-                if (top10[i]!=null)
-                {
-                    texts[i].text = i + top10[i].name + top10[i].score;
-                    Debug.Log(texts[i].text);
-                }
-            }
+            UItext1.text += i+1+". " +names[i] + " " + scores[i] + "\n";
         }
+        UItext2.text = UItext1.text;
     }
 }

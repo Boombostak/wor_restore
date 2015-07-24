@@ -17,7 +17,7 @@ public class PlayerRenderManager : MonoBehaviour {
     {
         Debug.Log("a level was loaded" + levelint);
         Invoke("FindRenderers", 0.1f);
-        Debug.Log("There are " + GameObject.FindObjectsOfType<PlayerTraits>().Length + " players");
+        //Debug.Log("There are " + GameObject.FindObjectsOfType<PlayerTraits>().Length + " players");
         if ((GameObject.FindObjectsOfType<PlayerTraits>().Length > 1))
         {
             if (this.GetComponent<PlayerTraits>().playername == "")

@@ -39,7 +39,7 @@ public class MatterEnergy : MonoBehaviour {
 	IEnumerator DebrisTimer()
 	{
 		float timer = lifetime;
-		Debug.Log("timer"+ timer);
+		//Debug.Log("timer"+ timer);
 		while (timer > 2f)
 		{
 			timer -= Time.deltaTime;
@@ -66,6 +66,6 @@ public class MatterEnergy : MonoBehaviour {
 		yield return new WaitForSeconds(0.2f);
 		this.GetComponent<Renderer>().enabled = !this.GetComponent<Renderer>().enabled;
 		isblinking = true;
-		Debug.Log("called itemblink");
+		//Debug.Log("called itemblink");
 	}
 }
